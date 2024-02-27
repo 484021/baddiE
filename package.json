@@ -1,7 +1,6 @@
 {
   "name": "baddie",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -15,7 +14,15 @@
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.5",
     "express": "^4.18.2",
+    "mongodb": "^6.3.0",
     "mongoose": "^8.2.0",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1"
+  },
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
   }
 }
